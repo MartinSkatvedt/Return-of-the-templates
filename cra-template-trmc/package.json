@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-trmc",
+  "version": "1.1.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "mongoDB",
+    "chakra"
+  ],
+  "description": "CRA template with ts, mongodb and chakra ui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartinSkatvedt/Return-of-the-templates.git",
+    "directory": "cra-template-trmc"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
