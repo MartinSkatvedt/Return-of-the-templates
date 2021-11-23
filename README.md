@@ -2,4 +2,8 @@
 
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
-Collection of CRA-templates
+Simple collection of CRA-templates with personal techstacks.
+
+## Templates
+
+- trmc (Typescript, React, Mongoose, Chakra UI)
